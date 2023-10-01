@@ -1,6 +1,4 @@
-<!DOCTYPE html>
-<head>
-<script>
+
   window.onload = function() {
   var body = document.createElement('body');
   var s1 = document.createElement('script');
