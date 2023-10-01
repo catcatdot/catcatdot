@@ -1,4 +1,4 @@
-window.onload = function() {
+ function gen() {
   var body = document.createElement('body');
   var s1 = document.createElement('script');
   var s2 = document.createElement('script');
